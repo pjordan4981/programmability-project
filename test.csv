@@ -1,0 +1,17 @@
+Id,Device Name,IP Address,Reachability Status,Uptime,Last Updated,Resync Interval,Last Sync Status,Device Role
+a670fcef-4e29-4bfe-812b-e79bce1fced2,CLT1-ISR4431.secmob.com,10.99.99.60,Reachable,"""81 days, 21:36:23.11""",1/28/19 1:01,Global Default,Managed,BORDER ROUTER
+1218cd1f-2318-45aa-9d02-d0107a462ddb,DC2-7k2-Core2,172.26.98.10,Reachable,"""135 days, 0:26:26.34""",1/28/19 1:01,Global Default,Managed,CORE
+19f9c155-1217-488b-9457-b498bd54f4e0,RTP4-3650-Rack1.secmob.com,10.99.99.8,Reachable,"""75 days, 23:35:45.30""",1/28/19 1:01,Global Default,Managed,ACCESS
+1e351823-a93d-418b-afa7-e53b3092edc9,CLT-9500-40X-VSL.secmob.com,10.99.99.61,Reachable,"""100 days, 22:09:24.97""",1/28/19 1:01,Global Default,Managed,DISTRIBUTION
+1e521650-164b-4c0b-a294-e3df11e41355,7k1-Core1,172.24.101.3,Reachable,"""135 days, 0:25:16.19""",1/28/19 1:01,Global Default,Managed,CORE
+23a635a6-d32d-43ee-a9f0-91026d48928d,3850-6.secmob.com,10.13.80.98,Reachable,"""75 days, 20:52:45.59""",1/28/19 1:01,Global Default,Managed,ACCESS
+b211d804-f753-4991-8c5d-85a466af2a9c,CLT-9300-Stack.secmob.com,10.99.99.62,Reachable,"""116 days, 11:55:47.50""",1/28/19 1:01,Global Default,Managed,ACCESS
+7263e733-0163-4f7c-a5c7-bfa5ee6cb4db,9300-7.secmob.com,10.13.80.97,Reachable,"""75 days, 21:12:44.17""",1/28/19 1:01,Global Default,Managed,ACCESS
+b626aa49-b85a-4d6d-89c7-0ba7e4ab39df,ASR-1001HX.secmob.com,10.99.99.7,Reachable,"""67 days, 3:38:15.36""",1/28/19 1:01,Global Default,Managed,BORDER ROUTER
+392ad5b3-e831-428c-a63b-38b266891d64,RTP8-4506.secmob.com,10.99.99.31,Reachable,"""76 days, 0:53:28.01""",1/28/19 1:01,Global Default,Managed,ACCESS
+39726127-904b-4374-a56e-2350c712d78c,DC2-n5k1,172.24.101.16,Reachable,"""133 days, 8:54:11.13""",1/28/19 1:01,Global Default,Managed,ACCESS
+555e59b5-fb0a-41dc-aafc-d91dca1d4271,RTP4-9348-1,10.99.99.59,Reachable,"""75 days, 21:00:21.06""",1/28/19 1:01,Global Default,Managed,ACCESS
+,7k1-Core2,172.24.101.4,Reachable,"""135 days, 0:24:38.95""",2019-01-28 01:01:31,Global Default,Managed,CORE
+,esherwoo-ap2-master	8,192.168.25.11,,,,,,
+,N7K1,172.24.101.5,,,,,,
+,n55458a,172.24.101.6,,,,,,
