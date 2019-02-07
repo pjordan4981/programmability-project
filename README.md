@@ -1,7 +1,11 @@
 # programmability-project
-create a program to parse a CSV file and print the status of the running config of a devive
-programmabiltiy project to produce a report to show all the devices the have a running config that has not been savedted
 
-I have imported 2 modules to assist with producing a report that lists all the devices in inventory that has a running-config that has not been saved. This is phase one where the current code produce a print of of the snmp query of the snmp mibs ccmHistoryRunningLastChanged and ccmHistoryRunningLastSaved.
+Programmabiltiy project to produce a report to show all the devices the have a running config
+that has not been saved. I have imported 2 modules, csv and pysnmp, to assist with producing the report.
+The input for the program is the DNA Center inventory exported as a csv file.  The program produces
+screen output and a file containing all the devices in inventory that have a running configuration that
+has not been saved.
 
-If the value of ccmHistoryRunningLastChanged is greater than ccmHistoryRunningLastSaved, the configuration has been changed but not saved."
+The program uses the ccmHistoryRunningLastChanged and ccmHistoryRunningLastSaved
+mibs and returns a ticktime value for each mib.  If the ccmHistoryRunningLastChanged ticktime value
+is greater than the ccmHistoryRunningLastSaved ticktime value, the configuration has been changed but not saved.
